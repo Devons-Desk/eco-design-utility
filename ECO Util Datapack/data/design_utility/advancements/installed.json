@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "[ECO Design-World Utility Ver 0.1.0]",
+        "description": "ECO's design-world utility datapack for multiplayer building in 1.18.2.",
+        "icon": {
+            "item": "soul_lantern"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:devonsdesk",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
